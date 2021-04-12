@@ -1,6 +1,10 @@
 # google-clone-nextjs
 
-- A clone of google.com using Next.js, google API for custom search, tailwindcss and heroicons.
+- A clone of google.com using:
+- Next.js
+- google API for custom search
+- tailwindcss
+- heroicons.
 - [Live Demo](https://gcmdezign.com/react/google-clone/)
 
 ***
